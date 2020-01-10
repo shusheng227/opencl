@@ -1,2 +1,2 @@
 # opencl
-open练习代码
+opencl练习代码
